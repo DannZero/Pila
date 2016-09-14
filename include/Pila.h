@@ -13,6 +13,7 @@
      void show();
      int pop();
      void push(int dato);
+     void vaciar();
      Nodo *getTope();
  
  private:

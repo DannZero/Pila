@@ -46,3 +46,13 @@ void Pila::push(int dato)
     Nodo *n = new Nodo(dato, tope);
     tope = n;
 }
+
+void Pila::vaciar()
+{
+    this->tope = NULL;
+}
+
+Nodo *Pila::getTope()
+{
+    return tope;
+}

@@ -13,7 +13,8 @@ int main()
     {
         cout << "1. push" << endl;
         cout << "2. pop" << endl;
-        cout << "3. show" << endl;
+        cout << "3. vaciar" << endl;
+        cout << "4. show" << endl;
         cout << "0. Salir del Programa..." << endl;
         cin >> opc;
         switch (opc)
@@ -27,6 +28,9 @@ int main()
             cout << p.pop() << endl;
             break;
         case 3:
+            p.vaciar();
+            break;
+        case 4:
             p.show();
             break;
         case 0:
