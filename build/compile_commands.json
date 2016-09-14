@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/daniel/Documentos/Algoritmos y Estructuras de Datos/Pila/build",
+  "command": "/usr/bin/c++    -I\"/home/daniel/Documentos/Algoritmos y Estructuras de Datos/Pila/include\"    -o CMakeFiles/Pila.dir/src/Nodo.cpp.o -c \"/home/daniel/Documentos/Algoritmos y Estructuras de Datos/Pila/src/Nodo.cpp\"",
+  "file": "/home/daniel/Documentos/Algoritmos y Estructuras de Datos/Pila/src/Nodo.cpp"
+},
+{
+  "directory": "/home/daniel/Documentos/Algoritmos y Estructuras de Datos/Pila/build",
+  "command": "/usr/bin/c++    -I\"/home/daniel/Documentos/Algoritmos y Estructuras de Datos/Pila/include\"    -o CMakeFiles/Pila.dir/src/main.cpp.o -c \"/home/daniel/Documentos/Algoritmos y Estructuras de Datos/Pila/src/main.cpp\"",
+  "file": "/home/daniel/Documentos/Algoritmos y Estructuras de Datos/Pila/src/main.cpp"
+},
+{
+  "directory": "/home/daniel/Documentos/Algoritmos y Estructuras de Datos/Pila/build",
+  "command": "/usr/bin/c++    -I\"/home/daniel/Documentos/Algoritmos y Estructuras de Datos/Pila/include\"    -o CMakeFiles/Pila.dir/src/Pila.cpp.o -c \"/home/daniel/Documentos/Algoritmos y Estructuras de Datos/Pila/src/Pila.cpp\"",
+  "file": "/home/daniel/Documentos/Algoritmos y Estructuras de Datos/Pila/src/Pila.cpp"
+}
+]
